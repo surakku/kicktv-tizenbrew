@@ -1,0 +1,10 @@
+{
+  "name": "kicktv-tizenbrew",
+  "appName": "KickTV",
+  "version": "1.0.0",
+  "description": "Watch Kick on a Samsung TV through a self-hosted KickTV server on the LAN.",
+  "packageType": "mods",
+  "websiteURL": "http://192.168.1.17:8099/",
+  "main": "inject.js",
+  "keys": ["MediaPlayPause", "MediaPlay", "MediaPause", "MediaStop"]
+}
